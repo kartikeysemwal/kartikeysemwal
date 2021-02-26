@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+<details>
+  <summary>Some interesting facts about me!</summary>
+  <br>
+
+  - I am a Computer Science Student pursuing B.Tech. 
+
+  - I have interest in working on Web Development and Android Development Projects
+
+  - I am curruntly exploring the Field of Augmented Reality
+
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=kartikeysemwal&show_icons=true)
+
+</details>
+
 <!--
 **kartikeysemwal/kartikeysemwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
