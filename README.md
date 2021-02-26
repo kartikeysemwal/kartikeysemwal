@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <details>
-  <summary>Some interesting facts about me!</summary>
+  Some interesting facts about me
   <br>
 
   - I am a Computer Science Student pursuing B.Tech. 
